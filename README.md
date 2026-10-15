@@ -15,4 +15,4 @@ If you run into any bugs, visual glitches, or crashes:
 ---
 
 ### Credits
-None of the included mods, resource packs, or shaders were created by me. All credit goes to their respective creators—this pack simply collects and configures them to work seamlessly together.
+None of the included mods, resource packs, or shaders were created by me. All credit goes to their respective creators, this pack simply collects and configures them to work seamlessly together.
